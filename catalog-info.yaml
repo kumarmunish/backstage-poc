@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-poc
+  annotations:
+    github.com/project-slug: kumarmunish/backstage-poc
+spec:
+  type: other
+  lifecycle: unknown
+  owner: munish
