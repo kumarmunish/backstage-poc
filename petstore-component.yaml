@@ -12,7 +12,7 @@ metadata:
       title: GitHub Repo
       icon: github
 spec:
-  type: website
+  type: service
   lifecycle: experimental
   owner: team-c
   providesApis:
