@@ -17,5 +17,4 @@ spec:
   owner: team-c
   providesApis:
     - petstore
-    - streetlights
-    - hello-world
+    - spotify
