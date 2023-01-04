@@ -6,9 +6,16 @@ metadata:
   tags:
     - spotify
     - rest
+  links:
+    - url: https://github.com/swagger-api/swagger-petstore
+      title: GitHub Repo
+      icon: github
+    - url: https://grafana.maersk.io/
+      title: My Dashboard
+      icon: grafana
   annotations:
     # The annotation is deprecated, we use placeholders (see below) instead, remove it later.
-    backstage.io/definition-at-location: 'url:https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/spotify.com/v1/swagger.yaml'
+    backstage.io/definition-at-location: "url:https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/spotify.com/v1/swagger.yaml"
 spec:
   type: openapi
   lifecycle: production
