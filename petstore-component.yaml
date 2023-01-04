@@ -16,5 +16,5 @@ spec:
   lifecycle: experimental
   owner: team-c
   providesApis:
-    - petstore
+    - petstore-api
     - spotify
