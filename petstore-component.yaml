@@ -13,7 +13,7 @@ metadata:
       icon: github
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: production
   owner: team-c
   providesApis:
     - petstore
