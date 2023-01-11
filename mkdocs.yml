@@ -7,5 +7,6 @@ nav:
 theme:
   name: material
   
+  
 plugins:
   - techdocs-core
